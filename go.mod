@@ -1,6 +1,6 @@
 module github.com/hetznercloud/hcloud-cloud-controller-manager
 
-go 1.16
+go 1.17
 
 require (
 	github.com/NYTimes/gziphandler v1.1.1 // indirect
